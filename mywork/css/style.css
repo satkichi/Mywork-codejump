@@ -158,6 +158,10 @@ Contact
     padding: 15px 0;
     border: solid 1px #24292e;
 }
+#contact .button input:hover {
+    background: #fff;
+    color: #24292e;
+}
 
 /*--------------------------------------
 footer
